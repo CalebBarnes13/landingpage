@@ -185,7 +185,6 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 32%;
   }
 
   h1 {
@@ -205,6 +204,7 @@ footer {
   .section__description {
     flex-direction: column;
   }
+
   .section__description--wrapper {
     width: 100%;
   }
